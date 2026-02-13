@@ -1,5 +1,5 @@
 # 실전 문제(2)
-# 소요시간: 21-
+# 소요시간: 21분
 
 def find_parent(parent, x):
     if parent[x] != x:
